@@ -14,7 +14,7 @@ This application is developed using Spring Boot, Spring JDBC, Spring RESTful web
 7.	User can hold and reserve the seats at multiple levels 
 
 ###Building Project
-1.	Clone this project :
+1.	Clone this project : https://github.com/mandarpuranik/ticket-service.git
 2.	Git clone 
 3.	Kindly make sure JAVA_HOME environment variable is configured and maven bin directory is added to PATH environment variable. Run the following commands
 4.	Cd ticket-service
