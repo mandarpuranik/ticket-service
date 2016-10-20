@@ -22,4 +22,8 @@ This application is developed using Spring Boot, Spring JDBC, Spring RESTful web
 6.	 Go to target folder by ‘cd target’
 7.	 To run  the program use ‘Java -jar ticket-service.jar’ command.
 
- 
+###Dependencies
+1. Java 1.8
+2. Maven
+3. JUnit 4.12
+
